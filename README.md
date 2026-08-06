@@ -76,8 +76,7 @@ Step 2: Configure CloudFront
 After deployment, use the CloudFront Domain Name to access the website.
 
 Step 3: Create IAM User
-* Create an IAM user : `github-s3-cloudfront-deployer`
-* Attach permissions for:  
+* Create an IAM user: `github-s3-cloudfront-deployer`
 * Attach the following permissions:
 
   **Amazon S3**
