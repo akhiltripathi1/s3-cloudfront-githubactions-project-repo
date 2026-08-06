@@ -44,7 +44,7 @@ Developer
 | **JavaScript (JS)** | Adds interactivity and dynamic behavior to the website.                                                              |
 
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 project-name/
