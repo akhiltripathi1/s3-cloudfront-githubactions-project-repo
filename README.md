@@ -28,6 +28,37 @@ Developer
                           ▼
                      End Users
 ```
+---
+
+## Live Demo
+
+The live demo has been taken offline to avoid ongoing AWS infrastructure costs.
+
+### Webpage of Application
+
+![](./screenshots/Webpage/Webpage_ss_1.png)
+
+![](./screenshots/Webpage/Webpage_ss_2.png)
+
+![](./screenshots/Webpage/Webpage_ss_3.png)
+
+![](./screenshots/Webpage/Webpage_ss_4.png)
+
+### AWS Services
+
+S3 Bucket's Object:
+
+![S3 Bucket](./screenshots/AWS/S3_Bucket_Object.png)
+
+CloudFront distribution:
+
+![CloudFront Distribution](./screenshots/AWS/CloudFront_Distribution.png)
+
+IAM User Github-S3-CloudFront-Deployer:
+
+![IAM User Deployer](./screenshots/AWS/IAM_User_Deployer.png)
+
+---
 
 ## 🛠️ Technologies Used
 
